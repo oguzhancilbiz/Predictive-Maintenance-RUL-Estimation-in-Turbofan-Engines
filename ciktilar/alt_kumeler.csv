@@ -1,0 +1,5 @@
+alt_kume,egitim_motor,test_motor,kosul_sayisi,kullanilan_sensor,CV_RMSE,Test_RMSE_ham,Test_RMSE_kirpik,NASA_skor,gec_tahmin_orani
+FD001,100,100,1,15,16.82,21.45,20.25,1119,0.51
+FD002,260,259,6,15,16.43,27.36,15.43,10657,0.41
+FD003,100,100,1,16,15.71,19.54,18.07,1003,0.55
+FD004,249,248,6,16,16.02,28.44,17.69,6150,0.47

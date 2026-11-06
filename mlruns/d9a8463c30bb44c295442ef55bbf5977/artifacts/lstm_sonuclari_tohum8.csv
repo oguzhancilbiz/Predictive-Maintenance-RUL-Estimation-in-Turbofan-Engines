@@ -1,0 +1,3 @@
+Model,Dogrulama_RMSE,Dogrulama_NASA,Test_RMSE_ham,Test_RMSE_kirpik,Test_NASA,Test_gec_tahmin_orani
+LSTM - MSE (standart),15.18,18634.0,17.01,15.96,544.0,0.54
+LSTM - Asimetrik (NASA),15.39,13409.0,15.35,13.98,314.0,0.46

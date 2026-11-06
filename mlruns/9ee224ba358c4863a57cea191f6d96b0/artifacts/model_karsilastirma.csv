@@ -1,0 +1,5 @@
+Model,RMSE,NASA_skor
+XGBoost,15.71,110484.0
+RandomForest,16.37,117334.0
+Ridge,18.0,114275.0
+KNN,19.32,266189.0

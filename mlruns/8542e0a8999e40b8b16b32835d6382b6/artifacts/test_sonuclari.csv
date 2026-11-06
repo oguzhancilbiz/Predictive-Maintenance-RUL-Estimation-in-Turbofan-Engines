@@ -1,0 +1,4 @@
+Model,RMSE_ham,RMSE_kirpik,NASA_skor,MAE
+XGBoost,17.73,16.45,547.0,13.07
+RandomForest,18.68,17.35,611.0,13.61
+Ridge,19.76,18.63,698.0,15.43
